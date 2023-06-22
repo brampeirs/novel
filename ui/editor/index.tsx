@@ -142,7 +142,7 @@ export default function Editor() {
       }}
       className="relative min-h-[100vh] w-full   p-12 px-8   sm:px-12 "
     >
-      <div className="absolute right-5 top-5 mb-5 rounded-lg bg-stone-100 px-2 py-1 text-sm text-stone-400">
+      <div className="absolute right-[75px] top-5 mb-5 rounded-lg bg-stone-100 px-2 py-1 text-sm text-stone-400">
         {saveStatus}
       </div>
 
